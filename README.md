@@ -1,5 +1,6 @@
-## ⚡️ Hi, I'm orliesaurus ⚡️
+## ⚡️ Welcome, I'm @orliesaurus ⚡️
 
+and I love to cook 🧑‍🍳
 
 I'm a software developer - I am the author of [Node packages](https://www.npmjs.com/~orliesaurus)
 
