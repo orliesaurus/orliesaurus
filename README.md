@@ -6,9 +6,9 @@ I'm a software developer - I am the author of [Node packages](https://www.npmjs.
 
 
 - 🌏 I live in Austin, TX
-- 🔭 I’m currently working on [dashcam](https://www.dashcam.io) and [on my youtube channel](https://lf.gg/youtube)
+- 🔭 I’m currently working on tools for AI devs
+- 🎥 I have [a youtube channel](https://lf.gg/youtube)
 - 🌱 I’m currently learning video-editing
 - 💬 Ask me about JavaScript or Python
 - 📫 Reach out: [Twitter](https://twitter.com/sunglassesface)
 - 🎧 Listening to: SWEDISH DEATH METAL
-- ⚡ Fun fact: I forked Phil's personal repo as a template
