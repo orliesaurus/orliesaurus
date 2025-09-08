@@ -2,9 +2,10 @@
 
 and I love to cook 🧑‍🍳
 
-I'm a software developer - I am the author of [Node packages](https://www.npmjs.com/~orliesaurus)
+I'm a software developer, currently co-founder @ [toolhouse](https://toolhouse.ai).
+We're building the universal AI agent builder for the future of human kind.
 
-
+- I am the author of [Node packages](https://www.npmjs.com/~orliesaurus)
 - 🌏 I live in Austin, TX
 - 🔭 I’m currently working on tools for AI devs
 - 🎥 I have [a youtube channel](https://lf.gg/youtube)
